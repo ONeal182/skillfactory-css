@@ -12,4 +12,4 @@
 Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html.
 
 Или по ссылке 
-[link text itself]: https://oneal182.github.io/skillfactory-css/
+https://oneal182.github.io/skillfactory-css/
